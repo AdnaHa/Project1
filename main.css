@@ -1,0 +1,25 @@
+h1{
+    color: rgb(233, 241, 245);
+ }
+ h2{
+    color: rgb(191, 189, 197);
+    opacity: 0.5;
+ }
+ body {
+     background-image: url('/Users/adnon/Desktop/wood.jpg');
+     background-size: cover;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ button {
+     color: grey;
+     border: none; 
+     color: black;
+ }
+ p1{
+     color: white;
+ }
+ p2{
+     color: whitesmoke;
+ }
+
+  
